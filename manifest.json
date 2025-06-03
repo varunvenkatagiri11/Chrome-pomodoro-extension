@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro Timer",
+  "version": "1.0",
+  "description": "A simple Pomodoro timer extension with 25/5 minute intervals",
+  "icons": {
+    "48": "icons/tomato-48.png",
+    "128": "icons/tomato-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/tomato-48.png",
+      "128": "icons/tomato-128.png"
+    }
+  },
+  "permissions": [
+    "alarms",
+    "notifications"
+  ]
+} 
