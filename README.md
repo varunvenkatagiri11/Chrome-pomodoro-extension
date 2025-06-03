@@ -16,7 +16,7 @@ A simple and elegant Pomodoro Timer Chrome extension that helps you stay product
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Chrome-pomodoro-extension.git
+git clone https://github.com/vvenkatagiri11/Chrome-pomodoro-extension.git
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
