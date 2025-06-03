@@ -35,7 +35,8 @@ git clone https://github.com/vvenkatagiri11/Chrome-pomodoro-extension.git
 
 ## Screenshots
 
-[Add screenshots here]
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/57ca782b-652d-461e-9ec3-99dd3b795261" />
+
 
 ## License
 
